@@ -2,6 +2,7 @@ package com.effective.test.effectivejava.createAndDestory;
 
 /**
  * Created by xieqe on 2017/12/1.
+ * Effective Java No.2：遇到多个构造器参数时考虑使用构建器——Builder
  */
 
 public class BuilderTest {
