@@ -12,9 +12,7 @@ import android.util.Log;
 
 public class StaticUtil {
 
-    /*
 
-    */
     private StaticUtil(){
         throw new AssertionError();
     }
